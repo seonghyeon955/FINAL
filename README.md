@@ -10,5 +10,25 @@
 ![img](images/2.png)
 
 
+
+
 [book detail page]
+상품의 가격, 재고 등의 상세 정보 및 관련 이벤트 등을 알 수 있는 상품 상세 페이지 입니다. 
 ![img](images/3.png)
+![img](images/2.png)
+
+
+
+관련 버튼을 클릭하여 안내창을 통해 정보를 알 수 있습니다.
+![img](images/4 explain.png)
+
+
+
+매장별 재고/위치 버튼을 클릭하여 상품재고가 있는 매장과 재고갯수를 알 수 있습니다.
+![img](images/5 stock.png)
+
+
+지점당 보유한 재고갯수를 클릭하여 관련책의 정보와 매장안 책의 위치, 바코드 및 ISBN번호를 알 수 있습니다.
+![img](images/6 stock-1.png)
+![img](images/6 stock-2.png)
+![img](images/6 stock-3.png)
